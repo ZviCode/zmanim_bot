@@ -27,7 +27,7 @@ This Python script is a Telegram bot that provides Zmanim (Jewish prayer times) 
 5. **Running the Bot:**
    - Execute the script in a Python environment.
      ```bash
-     python your_script_name.py
+     python bot_zmanim.py
      ```
 
 ## Bot Commands
